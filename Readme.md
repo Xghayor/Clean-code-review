@@ -150,7 +150,6 @@ Feel free to check the [issues page](../../issues/).
 > If you like this project and find it useful, I would greatly appreciate your support! By contributing to this project, you can help it grow and improve for the benefit of others. There are several ways you can support:
 
 - Spread the word
-- Contribute
 - Provide feedback
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
